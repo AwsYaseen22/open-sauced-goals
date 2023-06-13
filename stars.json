@@ -1,9 +1,9 @@
 [
   {
     "full_name": "fullstack-hy2020/create-app",
-    "stargazers_count": 116,
+    "stargazers_count": 117,
     "open_issues_count": 27,
-    "forks_count": 58
+    "forks_count": 56
   },
   {
     "full_name": "dwijmistry11/project-hub",
@@ -21,13 +21,13 @@
     "full_name": "100devs/todo-mvc",
     "stargazers_count": 59,
     "open_issues_count": 30,
-    "forks_count": 494
+    "forks_count": 496
   },
   {
     "full_name": "100devs/todo-mvc-auth-local",
-    "stargazers_count": 354,
+    "stargazers_count": 355,
     "open_issues_count": 60,
-    "forks_count": 929
+    "forks_count": 930
   },
   {
     "full_name": "utopiops/utopiops",
@@ -39,6 +39,6 @@
     "full_name": "leonnoel/100devs-calculator",
     "stargazers_count": 72,
     "open_issues_count": 283,
-    "forks_count": 809
+    "forks_count": 810
   }
 ]
