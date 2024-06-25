@@ -1,7 +1,7 @@
 [
   {
     "full_name": "fullstack-hy2020/create-app",
-    "stargazers_count": 127,
+    "stargazers_count": 126,
     "open_issues_count": 27,
     "forks_count": 63
   },
@@ -21,13 +21,13 @@
     "full_name": "100devs/todo-mvc",
     "stargazers_count": 64,
     "open_issues_count": 29,
-    "forks_count": 549
+    "forks_count": 550
   },
   {
     "full_name": "100devs/todo-mvc-auth-local",
     "stargazers_count": 415,
     "open_issues_count": 63,
-    "forks_count": 1047
+    "forks_count": 1048
   },
   {
     "full_name": "utopiops/belfy",
@@ -39,6 +39,6 @@
     "full_name": "leonnoel/100devs-calculator",
     "stargazers_count": 79,
     "open_issues_count": 304,
-    "forks_count": 879
+    "forks_count": 880
   }
 ]
